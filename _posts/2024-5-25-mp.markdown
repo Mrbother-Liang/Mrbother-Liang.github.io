@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "114514"
-date:       2014-08-16 12:00:00
+title:      "知识点"
+date:       2024-05-121 12:00:00
 author:     "Mrbother"
 header-img: "img/post-bg-miui6.jpg"
 tags:
