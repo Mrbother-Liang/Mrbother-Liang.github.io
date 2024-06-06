@@ -3,13 +3,13 @@
   "short_name": "Mrbohter Blog",
   "description": "About an engineer & designer who loves web.",
   "icons": [{
-    "src": "icons/128.png",
-    "sizes": "128x128",
-    "type": "image/png"
+    "src": "icons/avatar.jpg",
+    "sizes": "667x667",
+    "type": "image/jpg"
   }, {
-    "src": "icons/512.png",
-    "sizes": "512x512",
-    "type": "image/png"
+    "src": "icons/avatar.jpg",
+    "sizes": "667x667",
+    "type": "image/jpg"
   }],
   "background_color": "#fff",
   "theme_color": "#000",
